@@ -33,18 +33,6 @@
 
 ---
 
-### 📊 **GitHub Stats**  
-<div align="center">
-  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true)  
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=radical&hide_border=true)](https://git.io/streak-stats)  
-
-</div>
-
----
-
 ### ✍️ **Latest Articles**   
 - [«APPLICATION OF LLM FOR PENETRATION TESTING»](https://elibrary.ru/item.asp?id=68550299)  
 
