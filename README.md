@@ -1,7 +1,7 @@
 <div align="center">
   
 # 🛡️ `whoami`  
-### **Security Researcher**  
+### **AppSec | Security Researcher**  
 
 ---
 
