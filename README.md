@@ -27,7 +27,7 @@
 ---
 
 ### 🚀 **Projects & CTF**  
-- **🔥 Write Exploits**   
+- **🔥 Write Sec**   
 - **📝 CTF Writeups**   
 - **🛡️ Create ML projects**   
 
