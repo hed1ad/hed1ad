@@ -27,7 +27,7 @@
 ---
 
 ### 🚀 **Projects & CTF**  
-- **🔥 Write Sec**   
+- **🔥 Write SecApps**   
 - **📝 CTF Writeups**   
 - **🛡️ Create ML projects**   
 
