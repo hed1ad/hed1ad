@@ -24,7 +24,7 @@ class SecurityEngineer:
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-**DevSecOps**
+**Technologies**
 
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -45,10 +45,6 @@ class SecurityEngineer:
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hed1ad&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hed1ad&theme=radical&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF6C37&currStreakLabel=00FF41" />
-
-<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=hed1ad&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true" />
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=hed1ad&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
