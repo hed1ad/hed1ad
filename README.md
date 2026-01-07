@@ -30,9 +30,10 @@
 
 ### 📊 GitHub Stats
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hed1ad&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hed1ad&theme=github_dark" />
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=hed1ad&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hed1ad&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hed1ad&theme=github_dark" />
 
 ---
 
