@@ -2,19 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=600&lines=%24+whoami;Evgeniy+%7C+QA+Automation+Engineer;AppSec+%7C+DevSecOps+Enthusiast;CTF+Player)](https://git.io/typing-svg)
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
-
-### 👨‍💻 About Me
-
-```python
-class SecurityEngineer:
-    def __init__(self):
-        self.name = "Evgeniy"
-        self.role = "QA Automation Engineer"
-        self.interests = ["AppSec", "DevSecOps", "PWN", "AI/ML"]
-        self.currently = "Building security tools"
-```
-
 ---
 
 ### 🛠️ Tech Stack
@@ -46,6 +33,10 @@ class SecurityEngineer:
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hed1ad&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hed1ad&theme=radical&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF6C37&currStreakLabel=00FF41" />
 
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hed1ad&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF" />
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=hed1ad&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true" />
+
 ---
 
 ### ✍️ Publications
@@ -58,12 +49,6 @@ class SecurityEngineer:
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diad.hedi@gmail.com)
-
----
-
-> *"Talk is cheap. Show me the code."*
->
-> — **Linus Torvalds**
 
 ---
 
