@@ -1,6 +1,6 @@
 <h1 align="center">EVGENIY TROFIMOV</h1>
 
-<p align="center"><b>Security researcher · Open-source vulnerability research · AI / LLM security</b></p>
+<p align="center"><b>Security researcher</b></p>
 
 ---
 
