@@ -4,9 +4,9 @@
 
 ---
 
-I'm a security researcher. I dig into open-source libraries looking for vulnerabilities, and I also cover already-disclosed ones on my blog, but in more concrete detail: root cause, exploitation path, the fix, and the tests that prove it.
+I'm a security researcher focused on vulnerability research in open-source software and AI/LLM security.
 
-My second focus is **AI / LLM security**. I have published articles on the topic and am writing a master's thesis in this area.
+My work involves analyzing open-source libraries to identify security vulnerabilities, understand their underlying causes, and investigate how they can be exploited in practice.
 
 ## Focus
 
