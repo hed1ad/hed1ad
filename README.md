@@ -20,7 +20,7 @@ My work involves analyzing open-source libraries to identify security vulnerabil
 | Project | About | Stack |
 |---|---|---|
 | [CVE-Omarchy-Plugin](https://github.com/hed1ad/CVE-Omarchy-Plugin) | Bar widget for [Omarchy](https://omarchy.org/). Type a CVE ID or a product name and get the vulnerability description, plus the public exploits found in the local ExploitDB mirror, including their local file paths. Exploit search works offline; only the CVE description lookup uses the network. | QML, shell, searchsploit (ExploitDB), CIRCL CVE API |
-| [llm-endpoint-scanner](https://github.com/hed1ad/llm-endpoint-scanner) | Black-box security scanner for deployed LLM services — DAST for LLM apps. Probes any LLM-powered HTTP endpoint without access to code or prompts: prompt extraction, injection attacks, evidence-based JSON reports with canary-marker detection. | Python, typer, httpx, pydantic; GitHub Actions, Semgrep, TruffleHog |
+| [llm-endpoint-scanner](https://github.com/hed1ad/llm-endpoint-scanner) | Black-box security scanner for deployed LLM services - DAST for LLM apps. Probes any LLM-powered HTTP endpoint without access to code or prompts: prompt extraction, injection attacks, evidence-based JSON reports with canary-marker detection. | Python, typer, httpx, pydantic; GitHub Actions, Semgrep, TruffleHog |
 | [ICPC-2026-Huawei](https://github.com/hed1ad/ICPC-2026-Huawei) | Solution for the ICPC 2026 Huawei task, with a local test harness and tests. | C++ |
 
 ## Research & blog
